@@ -17,8 +17,11 @@
     Change the following styles to modify the appearance of ColorBox.  They are
     ordered & tabbed in a way that represents the nesting of the generated HTML.
 
-    The controls are currently below the content, to move them above replace the
+    Styling Help:
+    1. The controls are currently below the content, to move them above replace the
     word 'bottom' below with 'top'
+
+    2. Make sure to update the image path for the loading gif
 */
 #cboxOverlay{background:#fff;}
 #colorbox{}
